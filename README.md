@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @smoldata
+- 👀 I’m interested in data analytics-investment analysis-market research
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data dashboards
+- 📫 How to reach me ...
